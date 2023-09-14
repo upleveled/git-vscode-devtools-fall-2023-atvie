@@ -1,2 +1,12 @@
 Dog
 Goat
+Elephant
+Tiger
+Turtle
+
+
+Lucia
+James
+Cathia
+Bob
+Messi
